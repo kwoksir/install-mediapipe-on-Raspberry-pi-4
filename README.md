@@ -1,7 +1,8 @@
 # Install OpenCV & Mediapipe on Raspberry Pi4B
 
 ### Run on Raspberry Pi4B 8GB and based on Debian Bullseye (64-bit)
-![cap](https://user-images.githubusercontent.com/61585411/168199774-9175d642-9768-4f37-adfd-bc575da97876.png)
+![cap](https://github.com/kwoksir/install-mediapipe-on-Raspberry-pi-4/assets/61585411/3891a342-865f-4fa5-9dfd-1ae82bd10c87)
+
 ### Python version == 3.9.2
 
 [Install OpenCV & Mediapipe on Raspberry Pi 4B](https://www.youtube.com/watch?v=j11CKdGFOWg) -YouTube demo
